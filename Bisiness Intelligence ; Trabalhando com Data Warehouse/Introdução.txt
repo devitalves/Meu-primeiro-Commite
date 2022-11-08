@@ -1,0 +1,19 @@
+	Dados em Informação
+Oque aprendemos?
+
+.Um pouco da história do BI desde os primórdios da humanidade até os dias de hoje;
+
+.A chave está em transformar dado em informação usando diversas fontes de dados;
+
+.Conhecemos a empresa de Suco de Frutas que irá nos acompanhar nos diversos cursos de BI.
+
+	Problemas mais comuns nas empresas
+Oque aprendemos?
+
+.Diversos problemas podem ocorrer quando não tomamos cuidado em extrair informações das empresas;
+
+.Temos departamentos que olham valores dos mesmos indicadores de maneiras distintas;
+
+.Diferentes formas de agregação dentro da empresa;
+
+.Sistemas de informação que não se falam também é um problema muito comum.
