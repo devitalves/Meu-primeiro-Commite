@@ -33,3 +33,12 @@ Oque aprendemos?
 .Que a dimensão deve ser analisada com cuidado para juntar entidades que possuam relacionamentos;
 
 .Que podemos projetar as tabelas de dimensões usando distintos layouts.
+
+	Hierarquia e tipos de Dimensões
+.Algumas dicas que ajudam a decidir se uma relação de apenas dois níveis vão ser projetadas no Data Warehouse, como hierarquias ou atributos;
+
+.A dimensão tempo, obrigatória em todo Data Warehouse;
+
+.Como representar dimensões irregulares;
+
+.Aprendemos a necessidade de construção de processos de ETL para carregar os Data Warehouses.
