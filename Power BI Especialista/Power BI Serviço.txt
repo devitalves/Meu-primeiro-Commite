@@ -1,5 +1,0 @@
-1. Publicando um relatório
-2. [Extra] Criação de Conta (Corporativa) no Power BI Serviço
-3. Atualizando seu relatório automaticamente (Gateway)
-4. Estrutura do Power BI Serviço
-5. Criando um Aplicativo do Power BI
