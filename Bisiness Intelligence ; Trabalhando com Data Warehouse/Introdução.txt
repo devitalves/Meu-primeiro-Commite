@@ -7,7 +7,7 @@ Oque aprendemos?
 
 .Conhecemos a empresa de Suco de Frutas que irá nos acompanhar nos diversos cursos de BI.
 
-	Problemas mais comuns nas empresas
+	Problemas mais comuns nas empresas.
 Oque aprendemos?
 
 .Diversos problemas podem ocorrer quando não tomamos cuidado em extrair informações das empresas;
