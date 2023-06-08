@@ -5,7 +5,7 @@ Oque aprendemos?
 
 .A chave está em transformar dado em informação usando diversas fontes de dados;
 
-.Conhecemos a empresa de Suco de Frutas que irá nos acompanhar nos diversos cursos de BI.
+.Conhecemos a empresa de Suco de Frutas que irá nos acompanhar nos diversos cursos de BI;
 
 	Problemas mais comuns nas empresas.
 Oque aprendemos?
