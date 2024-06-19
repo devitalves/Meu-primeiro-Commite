@@ -1,1 +1,4 @@
 - Carregando os dados e criando relacionamentos
+-Criar um relacionamento entre as tabelas;
+-Conhecer nossos dados;
+-Criar uma coluna calculada (RELATED);
