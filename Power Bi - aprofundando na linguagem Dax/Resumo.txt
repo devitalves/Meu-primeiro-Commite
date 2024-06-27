@@ -1,4 +1,4 @@
-Carregar a base de dados no powerBI;
+Carregando a base de dados no powerBI;
 Criar um relacionamento entre as tabelas;
 Conhecer nossos dados;
 Criar uma coluna calculada (RELATED);
