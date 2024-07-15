@@ -6,3 +6,4 @@ Calcular o número de vendas combinando funções DAX ( VAR, FILTER e COUNTROWS)
 Calculando o total de vendas com SUMX
 Como obter o faturamento total com a função SUMX?
 Calculando a porcentagem de vendas com ALL
+Verificando o código do curso: funcionalidade da aplicação ALL
