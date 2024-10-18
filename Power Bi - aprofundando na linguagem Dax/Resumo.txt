@@ -2,7 +2,7 @@ Carregando a base de dados no powerBI;
 Criar um relacionamento entre as tabelas;
 Conhecer nossos dados;
 Criar uma coluna calculada (RELATED);
-Calcular o número de vendas combinando funções DAX ( VAR, FILTER e COUNTROWS).
+Calcular o número de vendas combinando funções DAX ( VAR, FILTER e COUNTROWS);
 Calculando o total de vendas com SUMX
 Como obter o faturamento total com a função SUMX?
 Calculando a porcentagem de vendas com ALL
